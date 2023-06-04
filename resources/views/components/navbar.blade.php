@@ -11,6 +11,10 @@
         <div class="flex items-center ml-4" id="spinner">
             <div class="w-6 h-6 border-t-2 border-white rounded-full animate-spin "></div>
         </div>
+        <!-- firma DEVELOPED BY MELARC AB -->
+        <div class="flex items-center ml-4">
+            <div class="text-white font-semibold text-sm">DEVELOPED BY MELARC AB</div>
+        </div>
     </div>
 
 </div>
