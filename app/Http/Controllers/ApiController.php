@@ -58,7 +58,6 @@ class ApiController extends Controller
         $tweets = $request->input('tweets');
         $gpt = new Gpt();
         $tweets = implode(" \nSIGUIENTE TWEET: ", $tweets);
-        //test
         return  $gpt->send(($tweets));
     }
 }
