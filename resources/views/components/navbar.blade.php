@@ -12,7 +12,7 @@
             <div class="w-6 h-6 border-t-2 border-white rounded-full animate-spin "></div>
         </div>
         <!-- firma ala derecha DEVELOPED BY MELARC AB -->
-        <div class="flex items-center justify-end ml-4 text-white">
+        <div class="flex items-center justify-end ml-4 text-white float-right">
             <span class="text-sm font-semibold">Developed by Melarc AB</span>
         </div>
     </div>
