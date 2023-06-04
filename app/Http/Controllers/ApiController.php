@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Atymic\Twitter\Facade\Twitter;
 use App\Models\Gpt;
+use Atymic\Twitter\Exception\TwitterException;
 
 class ApiController extends Controller
 {
@@ -51,7 +52,7 @@ class ApiController extends Controller
             ];
 
             return json_encode($response);
-        } catch (\Exception $e) {
+        } catch (TwitterException $e) {
             return json_encode([
                 "error" => $e->getMessage()
             ]);
