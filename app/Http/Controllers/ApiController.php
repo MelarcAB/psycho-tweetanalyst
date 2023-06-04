@@ -24,7 +24,7 @@ class ApiController extends Controller
 
             $tweets_msg = [];
 
-
+            echo env('TWITTER_CONSUMER_KEY');
 
             $batch = Twitter::getUserTimeline($params);
 
