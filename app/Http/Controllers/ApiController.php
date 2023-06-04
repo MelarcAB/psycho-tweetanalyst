@@ -16,7 +16,7 @@ class ApiController extends Controller
         $lastTweetId = null;
         $params = [
             'screen_name' => $username,
-            'count' => 30,
+            'count' => 15,
             'format' => 'array',
             'tweet_mode' => 'extended'
         ];
@@ -56,9 +56,9 @@ class ApiController extends Controller
     function analisisGpt(Request $request)
     {
         $tweets = $request->input('tweets');
-        $gpt = new Gpt("gpt-4");
+        $gpt = new Gpt();
         $tweets = implode(" \nSIGUIENTE TWEET: ", $tweets);
-
+        //test
         return  $gpt->send(($tweets));
     }
 }

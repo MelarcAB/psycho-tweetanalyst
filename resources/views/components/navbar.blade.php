@@ -8,8 +8,9 @@
                 class="absolute right-0 top-0 mt-1 mr-2 bg-white px-2 py-1 rounded-full text-blue-500 font-semibold">Buscar</button>
 
         </div>
+        <div class="flex items-center ml-4" id="spinner">
+            <div class="w-6 h-6 border-t-2 border-white rounded-full animate-spin "></div>
+        </div>
     </div>
-    <div class="flex items-center ml-4" id="spinner">
-        <div class="w-6 h-6 border-t-2 border-white rounded-full animate-spin "></div>
-    </div>
+
 </div>
