@@ -13,7 +13,7 @@
         </div>
         <!-- firma ala derecha DEVELOPED BY MELARC AB -->
         <div class="flex items-center justify-end ml-4 text-white">
-            <span class="text-sm font-semibold">Developed by MELARC_AB</span>
+            <span class="text-sm font-semibold">Developed by Melarc AB</span>
         </div>
     </div>
 
