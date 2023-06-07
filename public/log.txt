@@ -1930,3 +1930,8 @@ SIGUIENTE TWEET: @rodriber Ni de coña, que te pasaTue May 30 08:05:18 +0000 202
 SIGUIENTE TWEET: @Silithur QUE GUAPOTue May 30 08:00:31 +0000 2023 
 SIGUIENTE TWEET: @Pramarc NO ME DEJA POR EL TWITTER BLUE NO WAYTue May 30 07:38:43 +0000 2023
 2023-05-31 07:52:23 RESPUESTA GPT RECEIVED 
+2023-06-07 09:13:00 ENVIO PROMPT GPT USER 
+Remember del dibujo de Luffy que hice el otro día, ahora que ha salido el capítulo.
+#ONEPIECE #ONEPIECE1070 #luffy https://t.co/CGHwetm8mwThu Dec 22 09:52:26 +0000 2022 
+SIGUIENTE TWEET: Dibujo de Luffy en Gear 5, tomé de referencia una de las viñetas filtradas del capítulo 1070 😁
+#onepiece1070 https://t.co/Gc5RgiK5o3Tue Dec 20 18:49:50 +0000 2022
